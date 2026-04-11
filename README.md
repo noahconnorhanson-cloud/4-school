@@ -2,7 +2,7 @@
 Need to make for school
 <html>
 <head>
-<h2>About This Cite</h2>
+<h1>About This Cite</h1>
 </head>
 <body>
 <p>This cite is dedicated towards educataional assignements and schoolwork. It will be updated periodically as needed so drastic changes can be expected.</p>
